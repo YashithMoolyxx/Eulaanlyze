@@ -1,8 +1,20 @@
-# React + Vite
+# EulaRise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+EulaRise is an analytics platform designed to analyze End User Agreements (EULAs). It leverages AI technology to detect harmful clauses and provide actionable insights, simplifying legal agreements for users.
 
-Currently, two official plugins are available:
+## Features
+- **AI-Powered Analysis**: Detects harmful clauses and legal risks.
+- **Smart Scanning**: Leverages AI to provide real-time insights on agreements.
+- **User-Friendly Interface**: Easy navigation and interaction for users.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+To get started with EulaRise, visit the [Get Started](http://localhost:5000/get-started) page.
+
+## Images
+![Amazon](src/images/amazon.png)
+![Facebook](src/images/facebook.png)
+![Google](src/images/google.png)
+
+## License
+This project is licensed under the MIT License.
