@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --font-heading: 'Roboto', sans-serif;
+  --accent: 270, 80%, 70%; 
+  --primary: 270, 80%, 40%; 
+}
+
+.from-accent {
+  --tw-gradient-from: hsl(var(--accent));
+}
+
+.to-primary {
+  --tw-gradient-to: hsl(var(--primary));
+}
+
+body{
+  font-family: var(--font-heading);
+  background: linear-gradient(170deg, white, #DCCFF9);
+
+}
+
+/* .tryin{
+  font-family: "Special Elite", serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+.faq{
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rotate-270 {
+  transform: rotate(270deg);
+}
