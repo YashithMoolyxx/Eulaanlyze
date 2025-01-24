@@ -12,9 +12,9 @@ EulaRise is an analytics platform designed to analyze End User Agreements (EULAs
 To get started with EulaRise, visit the [Get Started](http://localhost:5000/get-started) page.
 
 ## Images
-![Amazon](src/images/amazon.png)
-![Facebook](src/images/facebook.png)
-![Google](src/images/google.png)
+![Amazon](src/images/page1.png)
+![Facebook](src/images/page2.png)
+![Google](src/images/page3.png)
 
 ## License
 This project is licensed under the MIT License.
